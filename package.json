@@ -1,0 +1,23 @@
+{
+  "name": "tostadas-paas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMol/TOSTADAS-PAAS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosMol/TOSTADAS-PAAS/issues"
+  },
+  "homepage": "https://github.com/CarlosMol/TOSTADAS-PAAS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
